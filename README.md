@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trung Nguyen</h1>
-<h3 align="center">👋 Welcome to my GitHub profile! I'm Trung Nguyen - an enthusiastic IT major who thrives on all things technology and gadgets. With a keen eye for detail and a passion for innovation, I'm dedicated to exploring the vast realm of IT. My expertise spans across diverse domains including DevOps, Cloud technologies, and Security. Through my projects and contributions, I aim to harness the power of cutting-edge advancements to create secure, efficient, and scalable solutions. Join me on this exciting journey as we delve into the digital landscape together. Let's transform ideas into reality through code and collaboration!</h3>
+<h3 align="center">👋 Welcome to my GitHub profile! I'm Trung Nguyen - an enthusiastic IT major who thrives on  DevOps, Cloud technologies, and Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=htrungngx&label=Profile%20views&color=0e75b6&style=flat" alt="htrungngx" /> </p>
 
