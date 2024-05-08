@@ -13,8 +13,6 @@
 
 # 📊 GitHub Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -23,14 +21,18 @@
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     50 mins             ███████████░░░░░░░░░░░░░░   45.34 % 
+CSS                      25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+YAML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+JavaScript               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/05/2024 16:17:57 UTC
+ Last Updated on 08/05/2024 00:56:02 UTC
 <!--END_SECTION:waka-->
 
 
