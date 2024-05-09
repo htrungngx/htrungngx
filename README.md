@@ -13,7 +13,7 @@
 
 # 📊 GitHub Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -29,12 +29,16 @@ CSS                      26 mins             ███░░░░░░░░�
 Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 JavaScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 
+🔥 Editors: 
+VS Code                  1 hr 59 mins        █████████████░░░░░░░░░░░░   53.31 % 
+Chrome                   1 hr 44 mins        ████████████░░░░░░░░░░░░░   46.69 % 
+
 💻 Operating System: 
 Mac                      3 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/05/2024 21:53:16 UTC
+ Last Updated on 09/05/2024 01:07:16 UTC
 <!--END_SECTION:waka-->
 
 
