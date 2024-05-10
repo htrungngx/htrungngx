@@ -6,9 +6,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/htrungngx](https://github.com/htrungngx)
 
-- 💬 Ask me about **DevOps, GCP, CI/CD, Docker, Jenkins, Terraform, Monitoring, Linux**
+- 💬 Ask me about **DevOps, GCP, CI/CD, Docker, Jenkins, Terraform, Monitoring, Linux, Ansible, K8s or any Tech problems**
 
-- 📫 How to reach me **htrung.jobs@gmail.com**
+- 👨‍💻 Portfolio: **htrung.dev**
+
+- 📫 How to reach me **htrung.jobs@gmail.com** 
 
 
 # 📊 GitHub Stats:
