@@ -15,7 +15,7 @@
 
 # 📊 GitHub Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -38,7 +38,9 @@ VS Code                  1 hr 49 mins        ██░░░░░░░░░�
 💻 Operating System: 
 Mac                      25 hrs 9 mins       █████████████████████████   100.00 % 
 ```
- Last Updated on 01/06/2024 08:19:18 UTC
+
+
+ Last Updated on 01/06/2024 16:18:25 UTC
 <!--END_SECTION:waka-->
 
 
