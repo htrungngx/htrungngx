@@ -25,19 +25,17 @@
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-YAML                     7 mins              ███████████████████░░░░░░   76.57 % 
-C#                       2 mins              ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/07/2024 16:20:59 UTC
+ Last Updated on 10/07/2024 01:13:47 UTC
 <!--END_SECTION:waka-->
 
 
