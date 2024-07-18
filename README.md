@@ -15,7 +15,7 @@
 
 # 📊 GitHub Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -37,7 +37,7 @@ Mac                      1 hr 6 mins         ███████████�
 ```
 
 
- Last Updated on 18/07/2024 01:12:47 UTC
+ Last Updated on 18/07/2024 08:20:42 UTC
 <!--END_SECTION:waka-->
 
 
