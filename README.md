@@ -15,31 +15,12 @@
 
 # 📊 GitHub Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Europe/Helsinki
-
-💬 Programming Languages: 
-Python                   4 hrs 12 mins       ████████████░░░░░░░░░░░░░   47.60 % 
-XML                      1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Java Properties          51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-C#                       50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-
-🔥 Editors: 
-VS Code                  8 hrs 50 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      8 hrs 50 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 01/08/2024 16:21:18 UTC
+ Last Updated on 02/08/2024 01:14:12 UTC
 <!--END_SECTION:waka-->
 
 
