@@ -15,31 +15,12 @@
 
 # 📊 GitHub Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Europe/Helsinki
-
-💬 Programming Languages: 
-YAML                     1 hr 30 mins        ████████████░░░░░░░░░░░░░   47.09 % 
-Python                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Other                    23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-CocoaPods                20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Text                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 12 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      3 hrs 12 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 14/11/2024 16:24:19 UTC
+ Last Updated on 15/11/2024 01:36:02 UTC
 <!--END_SECTION:waka-->
 
 
