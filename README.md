@@ -15,7 +15,7 @@
 
 # 📊 GitHub Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -25,17 +25,17 @@
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     7 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/01/2025 16:22:25 UTC
+ Last Updated on 21/01/2025 01:21:34 UTC
 <!--END_SECTION:waka-->
 
 
